@@ -18,6 +18,6 @@ Here are some ideas to get you started:
 ---
 
 ### :fire: My Stats :
-https://github-readme-streak-stats.herokuapp.com/?user=your-github-username
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=your-PerfectionistAF&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PerfectionistAF&theme=dark&background=000000)](https://git.io/streak-stats)<br />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PerfectionistAF&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
