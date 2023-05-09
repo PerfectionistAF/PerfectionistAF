@@ -1,5 +1,6 @@
 ### Hi there 👋
-
+#### ⚡ An introduction is in the works
+#### I always commit my files after I'm ✨ completely ✨ done, so I've gotten a bit of commits
 <!--
 **PerfectionistAF/PerfectionistAF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,6 +19,6 @@ Here are some ideas to get you started:
 ---
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PerfectionistAF&theme=dark&background=000000)](https://git.io/streak-stats)<br />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PerfectionistAF&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PerfectionistAF&theme=dark&background=000000)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PerfectionistAF&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
