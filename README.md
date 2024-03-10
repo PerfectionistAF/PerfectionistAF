@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi, s'up there? 👋
 #### ⚡ An introduction is in the works, so here it is:
 #### 🔭 I’m currently working on Global Hack Week (EDIT: I got my swag, now I'm applying for the Fellowship 😄)
 #### 🗒️ I’m looking forward to the MLH Fellowship
