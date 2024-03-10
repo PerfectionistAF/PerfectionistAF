@@ -1,6 +1,6 @@
 ### Hi there 👋
 #### ⚡ An introduction is in the works, so here it is:
-#### 🔭 I’m currently working on Global Hack Week
+#### 🔭 I’m currently working on Global Hack Week (EDIT: I got my swag, now I'm applying for the Fellowship 😄)
 #### 🗒️ I’m looking forward to the MLH Fellowship
 #### 🥇 Three words that sum up my career so far: determined, resourceful, varied 
 #### I always commit my files after I'm ✨ completely ✨ done, so I've gotten a bit of commits
