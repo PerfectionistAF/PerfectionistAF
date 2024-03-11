@@ -23,6 +23,7 @@ Here are some ideas to get you started:
 ---
 ### ❤️ In progress works:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PerfectionistAF&repo=Heart-Disease-Demo)](https://github.com/PerfectionistAF/Heart-Disease-Demo)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PerfectionistAF&repo=ECG_processing)](https://github.com/PerfectionistAF/ECG_processing)
 
 
 ### :fire: My Stats :
