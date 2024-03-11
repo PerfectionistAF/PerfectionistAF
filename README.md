@@ -21,7 +21,8 @@ Here are some ideas to get you started:
 -->
 
 ---
-### ❤️: In progress works:
+### ❤️ In progress works:
+![](https://github.com/PerfectionistAF/Heart-Disease-Demo)
 
 
 ### :fire: My Stats :
