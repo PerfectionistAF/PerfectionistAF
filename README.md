@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ---
 ### ❤️ Graduation project:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PerfectionistAF&repo=Heart-Disease-Website)]([https://github.com/PerfectionistAF/Heart](https://github.com/PerfectionistAF/Heart-Disease-Website))
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PerfectionistAF&repo=Heart-Disease-Website)]([https://github.com/PerfectionistAF/Heart]https://github.com/PerfectionistAF/Heart-Disease-Website)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PerfectionistAF&repo=ECG_processing)](https://github.com/PerfectionistAF/ECG_processing)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PerfectionistAF&repo=SupplementaryWork-Prognosis-model-)](https://github.com/PerfectionistAF/SupplementaryWork-Prognosis-model-)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=PerfectionistAF&repo=MI-Detection-From-A4C-Echocardiograms)](https://github.com/PerfectionistAF/MI-Detection-From-A4C-Echocardiograms)
