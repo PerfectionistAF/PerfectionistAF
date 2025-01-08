@@ -29,5 +29,5 @@ Here are some ideas to get you started:
 
 
 ### :fire: My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PerfectionistAF)](https://github.com/DenverCoder1/github-readme-streak-stats)
+<!--[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=PerfectionistAF)](https://github.com/DenverCoder1/github-readme-streak-stats)-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PerfectionistAF&hide_progress=true&langs_count=8)
